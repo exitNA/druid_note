@@ -1,2 +1,3 @@
 # druid_note
-a study of druid
+
+记录下学习druid的点点滴滴
